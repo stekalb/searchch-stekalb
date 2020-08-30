@@ -1,9 +1,14 @@
 [Desktop Entry]
-Name=searchch
-Exec=qmlscene %u qml/main.qml --scaling --disable-gpu
-Icon=img/logo.svg
+Name=search.ch
+Comment=Morph based alternate Search.ch Webapp
+Exec=qmlscene %u app/Main.qml --scaling --disable-gpu
 Terminal=false
 Type=Application
+Icon=app/icons/logo.png
+Keywords=Search;Directory;Weather;Map;TV;Switzerland;swiss;
 X-Ubuntu-Touch=true
-X-Ubuntu-Default-Department-ID=communication
-X-Ubuntu-Splash-Image=img/splash.svg
+
+X-Ubuntu-Splash-Color=#303030
+X-Ubuntu-Splash-Image=app/icons/splash.svg
+
+Name[en_US]=Search.ch

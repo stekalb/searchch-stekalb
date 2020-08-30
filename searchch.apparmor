@@ -1,14 +1,10 @@
 {
     "policy_groups": [
-        "networking",
-        "accounts",
-        "audio",
-        "content_exchange",
-        "location",
-        "camera",
-        "push-notification-client",
-        "keep-display-on",
-        "webview"
+         "webview",
+         "networking",
+         "audio",
+         "location",
+         "video"        
     ],
     "policy_version": 16.04
 }
