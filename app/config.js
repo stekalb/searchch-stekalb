@@ -3,6 +3,7 @@ Config file for Search.ch Webapp
 */
 
 // Common Settings
+var AppTitle = "Search.ch App"
 var AppBackgroundColor = "#303030";
 var ActionBarScaleFactor = 1.75
 var NavBackgroundColor = "#303030";
